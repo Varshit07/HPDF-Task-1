@@ -1,0 +1,11 @@
+.query-div {
+  width: 100%;
+  height: 90px;
+}
+.query-name {
+  padding-left: 40px;
+  padding-top: 20px;
+  font-size: 300%;
+  font-weight: bold;
+  color: #FFFFFF;
+}

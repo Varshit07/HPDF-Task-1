@@ -1,0 +1,61 @@
+.h-twitter-field {
+    position: relative;
+    top: -1230px;
+  }
+.h-tweet-author-avatar {
+  float: left;
+  clear: right;
+  padding-left: 5px;
+}
+.h-tweet-author-name {
+  float: left;
+  clear: right;
+  padding-left: 10px;
+  font-weight: bold;
+  margin-top: -1px;
+}
+.h-tweet-author-name:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.h-tweet-author-username:hover {
+  float: left;
+  clear: right;
+  padding-left: 7px;
+  color: grey;
+  margin-top: -1px;
+}
+.h-tweet-author-username:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.h-interpunct {
+  float: left;
+  clear: right;
+  padding-left: 4px;
+  color: grey;
+  margin-top: -1px;
+}
+.h-time-since-tweet {
+  padding-left: 4px;
+  color: grey;
+  font-size: 90%;
+}
+.h-tweet-text {
+  padding-left: 12px;
+  margin: auto
+}
+.h-icons {
+  padding-left: 75px;
+  color: #0084b4;
+}
+.h-user-photo{
+  padding-left: 75px;
+}
+.h-hashtag {
+  color: #0084b4;
+}
+.h-hashtag:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}

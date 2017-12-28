@@ -1,0 +1,56 @@
+.twitter-field {
+    position: relative;
+    top: -1150px;
+    margin-left: 370px;
+    width: 48%;
+  }
+.tweet-author-avatar {
+  float: left;
+  clear: right;
+  padding-left: 5px;
+}
+.tweet-author-name {
+  float: left;
+  clear: right;
+  padding-left: 10px;
+  font-weight: bold;
+  margin-top: -1px;
+}
+.tweet-author-username {
+  float: left;
+  clear: right;
+  padding-left: 7px;
+  color: grey;
+  margin-top: -1px;
+}
+.interpunct {
+  float: left;
+  clear: right;
+  padding-left: 4px;
+  color: grey;
+  margin-top: -1px;
+}
+.time-since-tweet {
+  padding-left: 4px;
+  color: grey;
+  font-size: 90%;
+}
+.tweet-text {
+  padding-left: 12px;
+  margin: auto
+}
+.icons {
+  padding-left: 75px;
+  color: #0084b4;
+}
+.user-photo{
+  padding-left: 75px;
+  width: 88.5%;
+}
+.hashtag {
+  color: #0084b4;
+}
+.hashtag:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}

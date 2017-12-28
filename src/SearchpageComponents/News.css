@@ -1,0 +1,37 @@
+.news-container {
+  position: relative;
+  top: -1220px;
+  margin: 10px 5px 5px 370px;
+}
+.publisher-avatar {
+  padding-left: 15px;
+}
+.publisher {
+  font-weight: bold;
+  font-size: 90%;
+  position: relative;
+  bottom: 3px;
+}
+.publisher:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.publish-date {
+  float: right;
+  color: grey;
+  font-size: 90%;
+}
+.header {
+  font-weight: bold;
+  font-size: 110%;
+  padding-left: 15px;
+}
+.view-more {
+  padding-left: 480px;
+  font-size: 90%;
+  color: #0084b4;
+}
+.view-more:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

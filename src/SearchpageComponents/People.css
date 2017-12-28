@@ -1,0 +1,71 @@
+.upper-half{
+  height: 100px;
+  width: 306px;
+}
+.lower-half {
+  height: 210px;
+  width:  306px;
+}
+.profilePic {
+  float: left;
+  clear: right;
+  margin-left: 15px;
+  margin-right: 15px;
+  position: relative;
+  top: -18%;
+  border: 3px solid white;
+}
+.FollowButton {
+  margin-top: 2px;
+  margin-left: 120px;
+}
+.name {
+  margin-left: 10px;
+}
+.name:hover {
+  text-decoration: underline;
+}
+.username {
+  color: grey;
+  margin-left: 16px;
+  line-height: 0.25em;
+}
+.username:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.user-info {
+  margin-left: 15px;
+}
+.people {
+  margin-left: 370px;
+  position: relative;
+  top: -1200px;
+}
+.people-container {
+  display: flex;
+}
+.card-1 {
+  margin-right: 10px;
+}
+.card-2{
+  margin-left: 10px;
+}
+.user-cover {
+  width: 306px;
+  height: 100px;
+}
+.header {
+  font-weight: bold;
+  font-size: 110%;
+  padding-left: 15px;
+}
+.view-more {
+  padding-left: 480px;
+  font-size: 90%;
+  color: #0084b4;
+}
+.view-more:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

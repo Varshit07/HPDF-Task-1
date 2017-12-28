@@ -1,0 +1,40 @@
+.suggest-paper {
+  margin: 10px 5px 5px 17px;
+  width: 25%;
+}
+.paper-title {
+  font-weight: bold;
+  font-size: 120%;
+  float: left;
+  clear: right;
+  padding-left: 17px;
+}
+.status {
+  color: #0084b4;
+  margin-top: 3px;
+  position: relative;
+  top: 3px;
+  font-size: 90%;
+}
+.avatar-thumbnail {
+  float: left;
+  clear: right;
+  padding-left: 17px;
+}
+.name {
+  font-size: 105%;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.username {
+  font-size: 89%;
+  color: grey;
+}
+.name:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.username:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.h-tweet-bar{
+  position: relative;
+  top: -1232px;
+}
+.h-paper {
+  width: 40%;
+  margin: 10px 5px 5px 550px;
+}
+.h-tweet-box {
+  display: flex;
+}
+.h-avatar-for-tweet {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.h-tweet-space {
+  padding-left: 10px;
+}
+.h-add-media {
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+}

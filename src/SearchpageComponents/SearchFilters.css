@@ -1,0 +1,25 @@
+.SearchFiltersPaper {
+  margin-top: 20px;
+  margin-left: 17px;
+  width: 25%;
+}
+.text {
+  margin-top: 10px;
+}
+.paper-title {
+  font-weight: bold;
+  font-size: 120%;
+  float: left;
+  clear: right;
+  padding-left: 17px;
+}
+.show{
+  color: #0084b4;
+  margin-top: 3px;
+  line-height: 1.75em;
+  font-size: 90%;
+}
+.show:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.h-card {
+  margin: 80px 5px 5px 210px;
+  width: 25%;
+}
+.h-footer {
+  padding: 0px 5%;
+  height: 120px;
+}
+.h-header {
+  height: 33.33%x;
+  width: 100%;
+}
+.h-profilePic {
+  float: left;
+  clear: right;
+  margin-right: 15px;
+  position: relative;
+  top: -50%;
+  border: 3px solid white;
+}
+.h-user {
+  font-weight: bold;
+  font-size: 140%;
+}
+.h-username {
+  color: grey;
+  font-size: 125%;
+}
+.h-userInfo {
+  line-height: 0.15;
+  position: relative;
+  top: -7.5%;
+}
+.h-username {
+  color: grey;
+  font-size: 125%;
+}
+.h-statContainer {
+  display: flex;
+  width: 100%;
+  position: relative;
+  top: -40px;
+}
+.h-Button {
+  flex: 1;
+}
+.h-title {
+  line-height: 0.5;
+  font-weight: bold;
+  color: grey;
+}
+.h-statnumber {
+  font-size: 105%;
+  color: #0084b4;
+}

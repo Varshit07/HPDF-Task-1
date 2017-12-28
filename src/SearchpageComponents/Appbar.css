@@ -1,0 +1,18 @@
+.search-field {
+  padding-left: 50px;
+}
+.nav-buttons:hover{
+  color: white !important;
+}
+.NavBar-paper {
+    margin-top: 0px;
+    background-color: white;
+    opacity: 1;
+    position: fixed;
+    z-index: 3;
+}
+.toolbar-container {
+  display: flex;
+  margin-bottom: 40px;
+  z-index: 3;
+}

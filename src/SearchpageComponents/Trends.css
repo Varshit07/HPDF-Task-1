@@ -1,0 +1,36 @@
+.trend-paper {
+  margin: 10px 5px 5px 17px;
+  width: 25%;
+}
+.paper-title {
+  font-weight: bold;
+  font-size: 120%;
+  float: left;
+  clear: right;
+  padding-left: 17px;
+}
+.status {
+  color: #0084b4;
+  margin-top: 3px;
+  position: relative;
+  top: 3px;
+  font-size: 90%;
+}
+.trend-hashtag {
+  color: #0084b4;
+  padding-left: 17px;
+  font-weight: bold;
+  line-height: 80%;
+}
+.trend-hashtag:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.no-of-tweets {
+  color:grey;
+  font-size: 90%;
+  padding-left: 17px;
+  line-height: 80%;
+  position: relative;
+  top: -14px;
+}

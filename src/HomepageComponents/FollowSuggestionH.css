@@ -1,0 +1,40 @@
+.h-suggest-paper {
+  margin: 10px 5px 5px 210px;
+  width: 25%;
+}
+.h-paper-title {
+  font-weight: bold;
+  font-size: 120%;
+  float: left;
+  clear: right;
+  padding-left: 17px;
+}
+.h-status {
+  color: #0084b4;
+  margin-top: 3px;
+  position: relative;
+  top: 3px;
+  font-size: 90%;
+}
+.h-avatar-thumbnail {
+  float: left;
+  clear: right;
+  padding-left: 17px;
+}
+.h-name {
+  font-size: 105%;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.h-username {
+  font-size: 95%;
+  color: grey;
+}
+.h-name:hover {
+  cursor:pointer;
+  text-decoration: underline;
+}
+.h-username:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}

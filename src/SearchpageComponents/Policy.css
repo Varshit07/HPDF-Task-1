@@ -1,0 +1,11 @@
+.policy-paper {
+  margin: 10px 5px 5px 17px;
+  width: 25%;
+}
+.policies {
+  padding-left: 17px;
+  padding-right: 15px;
+  font-size: 90%;
+  line-height: 0.5em;
+  color: grey;
+}

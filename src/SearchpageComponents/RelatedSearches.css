@@ -1,0 +1,21 @@
+.RelatedSearchesPaper {
+  margin-top: 20px;
+  margin-left: 17px;
+  width: 25%;
+}
+.paper-title {
+  font-weight: bold;
+  font-size: 120%;
+  float: left;
+  clear: right;
+  padding-left: 17px;
+}
+.searches {
+  color: #0084b4;
+  font-size: 90%;
+  padding-left: 17px;
+}
+.search-text:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
