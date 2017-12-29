@@ -1,4 +1,5 @@
 You can see this project on https://ui.distorted34.hasura-app.io/
+You can naviagte to the searchpage by clicking on the search icon in the top bar and back to the home page by home button or twitter icon in the top bar.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
